@@ -1,0 +1,11 @@
+@startuml class diagram
+
+class Peer {
+ - _connections
+}
+
+
+
+
+
+@enduml

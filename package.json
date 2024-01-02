@@ -24,6 +24,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv-webpack": "^8.0.1",
+    "eventemitter3": "^4.0.7",
     "winston": "^3.8.2"
   },
   "peerDependencies": {},
